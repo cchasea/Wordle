@@ -10,7 +10,7 @@ A command-line Worlde word guessing game written in Python
 - Tracks total score and allows replaying
 - Handles invalid input and missing files
 
-  ## Example Run
+## Example Run
 Please enter a file name: five-letter-words.csv
 
 Make a guess: games
